@@ -1,0 +1,16 @@
+
+Axios — bu HTTP so‘rovlarini amalga oshirish uchun foydalaniladigan, 
+asosan, React va boshqa JavaScript asosidagi loyihalarda keng qo‘llaniladigan kutubxona. 
+Axios REST API bilan ishlashni qulaylashtiradi, asinxron so‘rovlar 
+(masalan, GET, POST, PUT, DELETE) yuborishni osonlashtiradi va javoblarni
+qayta ishlashda qulaylik yaratadi.
+
+GET so‘rovi
+Ma’lumot olish uchun GET so‘rov yuborish:
+
+POST so‘rovi
+Ma’lumot jo‘natish uchun POST so‘rov yuborish:
+
+Cancel Token: So‘rovlarni bekor qilish imkoniyati
+Error handling: Xatolarni ishlov berish uchun qulay
+Base URL: API bazasini o‘zgartirish imkoniyati
